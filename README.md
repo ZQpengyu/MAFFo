@@ -1,5 +1,5 @@
 # MAFFo
-Implementation of our paper "Chinese Semantic Matching with Multi-granularity Alignment and Feature Fusion",which is accepted by IJCNN2021,in Keras & Tensorflow.
+Implementation of our paper "Chinese Semantic Matching with Multi-granularity Alignment and Feature Fusion" which is accepted by IJCNN2021.
 # Usage for python code
 ## 0. Requirement
 python 3.6.12  
