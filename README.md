@@ -8,9 +8,9 @@ keras == 2.2.4
 gensim == 3.8.3  
 
 ## 1.Data preparation
-The dataset is BQ & LCQMC.  
+The dataset is BQ.  
 "The BQ Corpus: A Large-scale Domain-specific Chinese Corpus For Sentence Semantic Equivalence Identification", https://www.aclweb.org/anthology/D18-1536/.  
-
+Jieba was utilized to segment words.
 ## 2.Start the training process
 python train.py
 
