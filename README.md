@@ -1,6 +1,6 @@
 # MAFFo
 Implementation of our paper "Chinese Semantic Matching with Multi-granularity Alignment and Feature Fusion" which is accepted by IJCNN2021.  
-The models trained by us can be downloaded from Baidu Netdisk:
+The models trained by us can be downloaded from Baidu Netdisk:  
 https://pan.baidu.com/s/1B1lAoLghLEACrzSmkIoySg 
 password:avrv
 # Preparation
